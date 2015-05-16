@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Sat May 16 13:02:17 CEST 2015
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=crenshaw.tex
+outputFile=crenshaw.pdf
+langSpell=en
+markDer=true
+srcDir=
